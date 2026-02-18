@@ -1,0 +1,8 @@
+{
+  "name": "TalkSheet",
+  "short_name": "TalkSheet",
+  "description": "Zero-friction minimalist voice-to-text sheet.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

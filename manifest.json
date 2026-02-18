@@ -1,0 +1,17 @@
+{
+  "name": "TalkSheet",
+  "short_name": "TalkSheet",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#fafafa",
+  "description": "Zero-friction minimalist voice-to-text sheet.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1082/1082831.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
